@@ -1,4 +1,4 @@
-# RAG_Riad
+# Game Master
 
 A small RAG (Retrieval-Augmented Generation) utility to index PDF game manuals/guides and build a searchable vector database. Intended use: give the project a game manual or guide (PDFs in `data/`), run the importer to create a Chroma vector store, then query that store from a separate QA application to ask questions about the game (acts like a game master / rules assistant).
 
